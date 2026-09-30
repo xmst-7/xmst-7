@@ -13,5 +13,7 @@ If you want to connect or see what I'm building, [my LinkedIn]([YOUR_LINKEDIN_UR
 ## **Fun Facts:**
 
 *💪 I am a semi-professional powerlifter
+
 *🕹🎮 I spend my free time sim racing in Assetto Corsa
+
 *📖 I read a lot of books
