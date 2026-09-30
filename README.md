@@ -8,7 +8,7 @@ I know how to code and resolve complex problems using Python, C, and C++.
 
 My main tech stack is HTML, CSS, JavaScript, SQL, Python, C, and C++. My go-to environment includes Linux.
 
-If you want to connect or see what I'm building, [my LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/moustafid-mhd-378a9a437/)) is available here!
+If you want to connect or see what I'm building, [my LinkedIn](https://www.linkedin.com/in/moustafid-mhd-378a9a437/) is available here!
 
 ## **Fun Facts:**
 
